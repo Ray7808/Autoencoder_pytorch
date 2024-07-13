@@ -2,6 +2,7 @@
 # pyenv and virtual env
 .venv/
 __pycache__/
+dataset/*
 
 # macOS
 .DS_Store
