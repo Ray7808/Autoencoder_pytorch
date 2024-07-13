@@ -8,5 +8,8 @@ source .venv/bin/activate // 激活虛擬環境
 
 deactivate // 退出虛擬環境
 
+pip install <package1> <package2>  // 安装所需的包
+pip freeze > requirements.txt      // 生成 requirements.txt 文件
+
 
 
