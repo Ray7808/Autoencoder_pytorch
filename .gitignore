@@ -1,0 +1,13 @@
+
+# pyenv and virtual env
+.venv/
+__pycache__/
+
+# macOS
+.DS_Store
+
+# windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
